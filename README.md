@@ -21,7 +21,7 @@ HTML5
 CSS3
 JavaScript
 
-<div style="display: flex; width: 200">
+<div style="display: flex;>
   ![image](https://github.com/Fabio-Argona/Calculadora-de-IMC/assets/128233610/4efb62e9-94f6-4935-b5bf-2c1f4e74b69c)
   ![image](https://github.com/Fabio-Argona/Calculadora-de-IMC/assets/128233610/5740207b-96bf-4e61-ac4b-668e7f78ddda)  
 </div>
